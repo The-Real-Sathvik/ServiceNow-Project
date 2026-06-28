@@ -6,9 +6,9 @@
 
 An automated solution for simplifying and accelerating network-related service requests using ServiceNow's service catalog, workflows, and automation capabilities.
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1VndETqkB6A2T-S1zhat_M0FxwAVrRSjv/view?usp=sharing" width="600/>
-</p>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C4D12AQGZ9WSC_6phNQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603792656088?e=1784160000&v=beta&t=ZSSUxFG5NkwDSc9Y-Yxa7ZNED38AZvs3D6239tyz9PA" alt="Network Request" height="400"/>
+</div>
 
 ---
 
